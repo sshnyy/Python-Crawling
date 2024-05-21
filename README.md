@@ -1,6 +1,6 @@
 # Python-Crawling
 
-패스트 캠퍼스의 "파이썬으로 할 수 있는 모든것 with 47개 프로젝트 초격차 패키지 Online" 강의 수료
+Fast Campus의 "파이썬으로 할 수 있는 모든것 with 47개 프로젝트 초격차 패키지 Online" 강의 수료
 
 <br>
 
