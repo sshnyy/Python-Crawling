@@ -1,6 +1,5 @@
 # 👩🏻‍💻 Python-Crawling
 
-FastCampus의 "파이썬으로 할 수 있는 모든것 with 47개 프로젝트 초격차 패키지 Online" 강의 수료
 - 오늘의 기록!!
 
 <br>
